@@ -547,7 +547,7 @@
       "VOTE_LBL_DELEGATION": "Delegation",
       "VOTE_LBL_DELEGATION_EXPLANATION": "ALLOW USERS TO PASS ON THEIR VOTING RIGHT.",
       "VOTE_LBL_NOTICE_DELEGATION_DISABLED_FOR_HARD_ID": "When eID is the chosen method of voting, delegation is not allowed.",
-      "VOTE_HEADING_STEP4": "Step 4: End of voting system",
+      "VOTE_HEADING_STEP4": "Step 4: Set voting deadline",
       "VOTE_LBL_DEADLINE": "Deadline",
       "VOTE_TXT_DEADLINE_CALENDAR_DAYS_LEFT": "Days left: {{numberOfDaysLeft}}",
       "VOTE_BTN_CREATE_VOTE": "START VOTING",
